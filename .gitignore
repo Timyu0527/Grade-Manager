@@ -1,0 +1,8 @@
+build/
+grade/
+dataframe_image/
+venv/
+*exe
+dist/
+*.spec
+result/
